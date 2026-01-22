@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2028e22-113d-4fcd-baa0-f0ba97d8d5a2" name="Changes" comment="">
+    <list default="true" id="012a6964-ebea-4c5e-9f17-fad4991f9844" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/best_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MinTimeVisitingPoints/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MinTimeVisitingPoints/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RepeatedNElements" beforeDir="false" afterPath="$PROJECT_DIR$/../RepeatedNElements" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,10 +26,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
-}</component>
-  <component name="ProjectId" id="38ZhBbPjTFxsDgcK3cNObHeEJRe" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="38amK1wAuK3XG6yxk0qGIPwCG7Q" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -33,18 +37,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.solution.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Debug",
+    "Python.solution.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MinTimeVisitingPoints" />
+      <module name="MinimumPairRemoval" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +84,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f2028e22-113d-4fcd-baa0-f0ba97d8d5a2" name="Changes" comment="" />
-      <created>1769012865731</created>
+      <changelist id="012a6964-ebea-4c5e-9f17-fad4991f9844" name="Changes" comment="" />
+      <created>1769045989669</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1769012865731</updated>
+      <updated>1769045989669</updated>
     </task>
     <servers />
   </component>
