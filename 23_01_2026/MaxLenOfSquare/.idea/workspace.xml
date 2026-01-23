@@ -4,17 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="012a6964-ebea-4c5e-9f17-fad4991f9844" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PS.txt" afterDir="false" />
+    <list default="true" id="126e8b45-69ca-41b1-ab8b-cc45faef965b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../20_01_2026/MinimumPairRemoval/PS.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../22_01_2026/MinimumBitwiseArray/.idea/MinimumBitwiseArray.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../22_01_2026/MinimumBitwiseArray/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../22_01_2026/MinimumBitwiseArray/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../22_01_2026/MinimumBitwiseArray/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../22_01_2026/MinimumBitwiseArray/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../22_01_2026/MinimumBitwiseArray/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../23_01_2026/MaxLenOfSquare/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../23_01_2026/MaxLenOfSquare/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RepeatedNElements" beforeDir="false" afterPath="$PROJECT_DIR$/../RepeatedNElements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../20_01_2026/MinimumPairRemoval/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../20_01_2026/MinimumPairRemoval/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../20_01_2026/RepeatedNElements" beforeDir="false" afterPath="$PROJECT_DIR$/../../20_01_2026/RepeatedNElements" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,10 +32,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
-}</component>
-  <component name="ProjectId" id="38amK1wAuK3XG6yxk0qGIPwCG7Q" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="38fMBtqGRAFbMvaYyYjAL7cBO7g" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -45,17 +46,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.main.executor": "Debug",
-    "Python.solution.executor": "Debug",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MinimumPairRemoval" />
+      <module name="MaxLenOfSquare" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +90,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="012a6964-ebea-4c5e-9f17-fad4991f9844" name="Changes" comment="" />
-      <created>1769045989669</created>
+      <changelist id="126e8b45-69ca-41b1-ab8b-cc45faef965b" name="Changes" comment="" />
+      <created>1769186042228</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1769045989669</updated>
+      <updated>1769186042228</updated>
     </task>
     <servers />
   </component>
