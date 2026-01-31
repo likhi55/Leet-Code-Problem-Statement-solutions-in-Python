@@ -5,55 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c745a3e-8db0-4804-b942-b41aca48b194" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../29_01_2026/LongestCommonPrefix/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../29_01_2026/LongestCommonPrefix/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../29_01_2026/LongestCommonPrefix/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../29_01_2026/LongestCommonPrefix/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../29_01_2026/LongestCommonPrefix/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../29_01_2026/RomanToInteger/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../29_01_2026/RomanToInteger/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../29_01_2026/RomanToInteger/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../29_01_2026/RomanToInteger/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../29_01_2026/RomanToInteger/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AddBinary/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AddBinary/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AddBinary/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AddBinary/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AddBinary/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AddBinary/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AddBinary/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstStringOccurance/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstStringOccurance/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LengthOfLastWord/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LengthOfLastWord/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LengthOfLastWord/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LengthOfLastWord/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LengthOfLastWord/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LengthOfLastWord/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LengthOfLastWord/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RemoveDuplicate/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RemoveDuplicate/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RemoveDuplicate/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RemoveDuplicate/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RemoveDuplicate/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RemoveDuplicate/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RemoveDuplicate/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SearchInsert/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SearchInsert/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SearchInsert/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SearchInsert/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SearchInsert/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SearchInsert/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SearchInsert/solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SquareRoot/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SquareRoot/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SquareRoot/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SquareRoot/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SquareRoot/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SquareRoot/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SquareRoot/solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../20_01_2026/RepeatedNElements" beforeDir="false" afterPath="$PROJECT_DIR$/../../20_01_2026/RepeatedNElements" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="38yCEGZx9JzhDoaqkyzo6yApvdq" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -82,15 +33,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ClimbingStairs" />
