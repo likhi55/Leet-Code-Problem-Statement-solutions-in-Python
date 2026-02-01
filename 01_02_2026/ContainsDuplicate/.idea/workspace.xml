@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c5a49be-e713-40bc-a17d-bd19c711a784" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../BuySellStock/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuySellStock/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuySellStock/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuySellStock/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuySellStock/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuySellStock/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BuySellStock/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../31_01_2026/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../31_01_2026/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../31_01_2026/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../31_01_2026/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../31_01_2026/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../20_01_2026/RepeatedNElements" beforeDir="false" afterPath="$PROJECT_DIR$/../../20_01_2026/RepeatedNElements" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../31_01_2026/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../31_01_2026/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="394UW0xFNoriNcQ9fbRihZjr9LG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/likhi/leet_code/Leet-Code-Problem-Statement-solutions-in-Python/01_02_2026/ContainsDuplicate"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\likhi\leet_code\Leet-Code-Problem-Statement-solutions-in-Python\01_02_2026\ContainsDuplicate" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-02acdf704d18-cbfc7b97e6b2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.28539.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c5a49be-e713-40bc-a17d-bd19c711a784" name="Changes" comment="" />
+      <created>1769954864691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769954864691</updated>
+    </task>
+    <servers />
+  </component>
+</project>
