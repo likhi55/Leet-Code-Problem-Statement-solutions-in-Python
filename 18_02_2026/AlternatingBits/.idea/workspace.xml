@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a23451df-b701-4098-9966-1d0993a94d00" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../19_02_2026/CountBinarySubstring/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../19_02_2026/CountBinarySubstring/solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../20_02_2026/IsSubsequence/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../20_01_2026/RepeatedNElements" beforeDir="false" afterPath="$PROJECT_DIR$/../../20_01_2026/RepeatedNElements" afterDir="false" />
     </list>
